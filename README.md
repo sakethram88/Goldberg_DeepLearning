@@ -65,5 +65,9 @@ The following output was obtained:</p>
   <p>This is the final output obtained from dataset 3:</p>
   <img src="https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Final%20Output/Final%20Output%20Score/Goldberg_Final.png">
   <p>We can clearly see that this output follows the key structure and form of the aria. Moreover, there are no unintended dissonant notes.<br>
-  If you don't read music, you can download the mp3 audio file and hear it by clicking <a href="https://github.com/sakethram88/Goldberg_DeepLearning/raw/master/Final%20Output/Final%20Output%20mp3%20File/Goldberg%20Final%20Output.mp3">here</a>
+  If you don't read music, you can download the audio file and hear it by clicking <a href="https://github.com/sakethram88/Goldberg_DeepLearning/raw/master/Final%20Output/Final%20Output%20mp3%20File/Goldberg%20Final%20Output.mp3">here</a>
   </p>
+<p>
+  Using this method, we can create additional variations to any set of variations or create a new variation to any existing piece of music. <br>
+  It was observed that the output produced by Dataset 3 sounded closer to Bach's music than that of Dataset 2.<br>
+  When considering a complete set of variations the result would resemble the style of the composer, but when only the theme is considered a new style is established.
