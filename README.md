@@ -60,10 +60,10 @@ The following output was obtained:</p>
   Each of these files was provided individually as input and each of the outputs was combined later to get the final output file.<br>
   This method gave rise to the final output.</p>
   
-  <h2>Final Output</h2>
+  <h2><a href="https://github.com/sakethram88/Goldberg_DeepLearning/tree/master/Final%20Output">Final Output</a></h2>
   
   <p>This is the final output obtained from dataset 3:</p>
   <img src="https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Final%20Output/Final%20Output%20Score/Goldberg_Final.png">
-  
-  
-
+  <p>We can clearly see that this output follows the key structure and form of the aria. Moreover, there are no unintended dissonant notes.<br>
+  If you don't read music, you can download the mp3 audio file and hear it by clicking <a href="https://github.com/sakethram88/Goldberg_DeepLearning/raw/master/Final%20Output/Final%20Output%20mp3%20File/Goldberg%20Final%20Output.mp3">here</a>
+  </p>
