@@ -46,9 +46,17 @@ The following output was obtained:</p>
 
 <h3><a href="https://github.com/sakethram88/Goldberg_DeepLearning/tree/master/Dataset%202">Dataset 2</a></h3>
   <p>Dataset 2 has 32 individual files, each containing a single bar of music from the aria.<br>
-  Each of these files was provided individually as input and each of the outputs were combined later to get the final output file.<br>
+  Each of these files was provided individually as input and each of the outputs was combined later to get the final output file.<br>
 The following output was obtained:</p>
 <figure>
   <img src="https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Dataset%202/Dataset%202%20Output/Dataset%202%20Output%20Score/Dataset%202%20Output.png">
   <figcaption>This output follows the key structure and binary form of the aria and can be called as a variation to the theme.</figcaption>
 </figure>
+<p>Though this output follows the key structure and form of the aria, there are some dissonant accidental notes.<br>
+  This can be rectified by reducing the value of temperature, but since Bach already wrote 30 other variations, I made use of them in the next dataset</p>
+
+<h3><a href="https://github.com/sakethram88/Goldberg_DeepLearning/tree/master/Dataset%203">Dataset 3</a></h3>
+  <p>Dataset 3 has 32 individual files, each containing music with the same key structure from aria and remaining variations randomly.<br>
+  Each of these files was provided individually as input and each of the outputs was combined later to get the final output file.<br>
+  This method gave rise to the final output.</p>
+
