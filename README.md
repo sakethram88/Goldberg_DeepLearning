@@ -5,5 +5,5 @@
   Three different datasets have been used to create three different variations to Bach's aria.
 <br>
   MelodyRNN has been used to produce output sequences. The datasets are in MIDI format.<br>
-  The code used has been provided in this file [Goldberg_DeepLearning.ipynb](https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Goldberg_DeepLearning.ipynb)  <br>
+  The code used has been provided in this file <a href="https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Goldberg_DeepLearning.ipynb">Goldberg_DeepLearning.ipynb</a>  <br>
   
