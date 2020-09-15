@@ -27,14 +27,14 @@
   <h3>Generation</h3>
   <p>Output has been generated as a single 32-bar MIDI file from the first dataset.<br>
   From the second and third datasets, each output contained one bar of music. All these bars were put together manually to generate the variation.<br>
-  All the generated MIDI files lacked key signatures and had a 4/4 time signature. <br>
+  All the generated MIDI files lacked key signatures and had a 4/4 time signature. These problems were rectified manually. <br>
   All changes to the scores, datasets and outputs were made using the software <em>Harmony Assistant.</em><br>
   During output generation, <em>temperature</em> parameter was adjusted to alter the randomness of each output.<br>
   In general, it was observed that a log-likelihood of -400 to -450 produced intelligible results.</p>
   
   
   
-  <h2>Outputs</h2>
+  <h2>Results</h2>
   
   <h3><a href="https://github.com/sakethram88/Goldberg_DeepLearning/tree/master/Dataset%201">Dataset 1</a></h3>
   <p>Dataset 1 contains the commplete aria.<br>
@@ -59,4 +59,11 @@ The following output was obtained:</p>
   <p>Dataset 3 has 32 individual files, each containing music with the same key structure from aria and remaining variations randomly.<br>
   Each of these files was provided individually as input and each of the outputs was combined later to get the final output file.<br>
   This method gave rise to the final output.</p>
+  
+  <h2>Final Output</h2>
+  
+  <p>This is the final output obtained from dataset 3:</p>
+  <img src="https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Final%20Output/Final%20Output%20Score/Goldberg_Final.png">
+  
+  
 
