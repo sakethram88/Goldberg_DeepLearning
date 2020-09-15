@@ -8,11 +8,14 @@
   </p>
   
   <h2>About The Procedure</h2>
+  <h3>Code</h3>
   <p>The code used has been provided in this file <a href="https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Goldberg_DeepLearning.ipynb">Goldberg_DeepLearning.ipynb</a><br>
   <a href="https://magenta.tensorflow.org/"> Magenta </a> is an open source python library which can be used to generate music and art using machine learning.
   <br>MelodyRNN can be used to generate melodies. It is an LSTM based neural network.
   <br>
   MelodyRNN works on Note Sequences but our datasets are in MIDI format, so some functions have been used to facilitate interconversion between them.<br></p>
+  
+  <h3>Datasets</h3>
   <p>
   Three different outputs have been generated using three different datasets from Bach's original work. <br>
   The first dataset is the complete aria.<br>
