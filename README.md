@@ -20,8 +20,13 @@
   Three different outputs have been generated using three different datasets from Bach's original work. <br>
   The first dataset is the complete aria.<br>
   The second dataset is the aria split into 32 different files, each containing 1 bar of music from the aria.<br>
-  The third dataset has been rearranged such that a single file contains music with the same key structure from different variations. For example, the first file contains music from the first bar of aria, variation 1, variation 5, etc. 
+  The third dataset has been rearranged such that a single file contains music with the same key structure from different variations. For example, the first file contains music from the first bar of aria, variation 1, variation 5, etc. <br>
+  All data has been normalised to a tempo of 108 BPM and same dynamic marking for consistency.
   </p>
   
-  <h2></h2>
+  <h3>Generation</h3>
+  <p>Output has been generated as a single 32-bar MIDI file from the first dataset.<br>
+  From the second and third datasets, each output contained one bar of music. All these bars were put together manually to generate the variation.<br>
+  All the generated MIDI files lacked key signatures and had a 4/4 time signature. <br>
+  All changes to the scores, datasets and outputs were made using the software <em>Harmony Assistant</em>
   
