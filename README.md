@@ -35,13 +35,20 @@
   
   
   <h2>Outputs</h2>
+  
   <h3><a href="https://github.com/sakethram88/Goldberg_DeepLearning/tree/master/Dataset%201">Dataset 1</a></h3>
   <p>Dataset 1 contains the commplete aria.<br>
-  This was provided as input to the code.<br>
-The following output was obtained</p>
+The following output was obtained:</p>
 <figure>
   <img src="https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Dataset%201/Dataset%201%20Output/Dataset%201%20Output%20Score/Dataset%201%20Output.png">
-  <figcaption>As we can see, the generated melody is random and does not follow the key structure of the aria</figcaption>
+  <figcaption>As we can see, the generated melody is random and does not follow the key structure of the aria.</figcaption>
 </figure>
 
-  
+<h3><a href="https://github.com/sakethram88/Goldberg_DeepLearning/tree/master/Dataset%202">Dataset 2</a></h3>
+  <p>Dataset 2 has 32 individual files, each containing a single bar of music from the aria.<br>
+  Each of these files was provided individually as input and each of the outputs were combined later to get the final output file.<br>
+The following output was obtained:</p>
+<figure>
+  <img src="https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Dataset%202/Dataset%202%20Output/Dataset%202%20Output%20Score/Dataset%202%20Output.png">
+  <figcaption>This output follows the key structure and binary form of the aria and can be called as a variation to the theme.</figcaption>
+</figure>
