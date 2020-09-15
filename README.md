@@ -7,12 +7,17 @@
   MelodyRNN has been used to produce output sequences. The datasets are in MIDI format.<br>
   </p>
   
-  <h2>About The Code</h2>
+  <h2>About The Procedure</h2>
   <p>The code used has been provided in this file <a href="https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Goldberg_DeepLearning.ipynb">Goldberg_DeepLearning.ipynb</a><br>
   <a href="https://magenta.tensorflow.org/"> Magenta </a> is an open source python library which can be used to generate music and art using machine learning.
   <br>MelodyRNN can be used to generate melodies. It is an LSTM based neural network.
   <br>
-  MelodyRNN works on Note Sequences but our datasets are in MIDI format, so some functions have been used to facilitate interconversion between them.
+  MelodyRNN works on Note Sequences but our datasets are in MIDI format, so some functions have been used to facilitate interconversion between them.<br></p>
+  <p>
+  Three different outputs have been generated using three different datasets from Bach's original work. <br>
+  The first dataset is the complete aria.<br>
+  The second dataset is the aria split into 32 different files, each containing 1 bar of music from the aria.<br>
+  The third dataset has been rearranged such that a single file contains music with the same key structure from different variations. For example, the first file contains music from the first bar of aria, variation 1, variation 5, etc. 
   </p>
   
   <h2></h2>
