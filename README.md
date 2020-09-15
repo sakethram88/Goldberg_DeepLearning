@@ -47,6 +47,7 @@ The following output was obtained:</p>
 <h3><a href="https://github.com/sakethram88/Goldberg_DeepLearning/tree/master/Dataset%202">Dataset 2</a></h3>
   <p>Dataset 2 has 32 individual files, each containing a single bar of music from the aria.<br>
   Each of these files was provided individually as input and each of the outputs was combined later to get the final output file.<br>
+  The bass line is that of the aria.<br>
 The following output was obtained:</p>
 <figure>
   <img src="https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Dataset%202/Dataset%202%20Output/Dataset%202%20Output%20Score/Dataset%202%20Output.png">
@@ -58,6 +59,7 @@ The following output was obtained:</p>
 <h3><a href="https://github.com/sakethram88/Goldberg_DeepLearning/tree/master/Dataset%203">Dataset 3</a></h3>
   <p>Dataset 3 has 32 individual files, each containing music with the same key structure from aria and remaining variations randomly.<br>
   Each of these files was provided individually as input and each of the outputs was combined later to get the final output file.<br>
+  The bass line is that of the aria.<br>
   This method gave rise to the final output.</p>
   
   <h2><a href="https://github.com/sakethram88/Goldberg_DeepLearning/tree/master/Final%20Output">Final Output</a></h2>
@@ -65,7 +67,7 @@ The following output was obtained:</p>
   <p>This is the final output obtained from dataset 3:</p>
   <img src="https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Final%20Output/Final%20Output%20Score/Goldberg_Final.png">
   <p>We can clearly see that this output follows the key structure and form of the aria. Moreover, there are no unintended dissonant notes.<br>
-  If you don't read music, you can download the audio file and hear it by clicking <a href="https://github.com/sakethram88/Goldberg_DeepLearning/raw/master/Final%20Output/Final%20Output%20mp3%20File/Goldberg%20Final%20Output.mp3">here</a>
+  If you don't read music, you can download the audio file and hear it by clicking <a href="https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Final%20Output/Final%20Output%20Audio/Goldberg_Final.mid?raw=true">here</a>
   </p>
 <p>
   Using this method, we can create additional variations to any set of variations or create a new variation to any existing piece of music. <br>
