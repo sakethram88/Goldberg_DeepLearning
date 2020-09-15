@@ -28,5 +28,7 @@
   <p>Output has been generated as a single 32-bar MIDI file from the first dataset.<br>
   From the second and third datasets, each output contained one bar of music. All these bars were put together manually to generate the variation.<br>
   All the generated MIDI files lacked key signatures and had a 4/4 time signature. <br>
-  All changes to the scores, datasets and outputs were made using the software <em>Harmony Assistant</em>
+  All changes to the scores, datasets and outputs were made using the software <em>Harmony Assistant.</em><br>
+  During output generation, <em>temperature</em> parameter was adjusted to alter the randomness of each output.<br>
+  In general, it was observed that a log-likelihood of -400 to -450 produced intelligible results.</p> 
   
