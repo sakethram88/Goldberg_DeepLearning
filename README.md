@@ -30,12 +30,18 @@
   All the generated MIDI files lacked key signatures and had a 4/4 time signature. <br>
   All changes to the scores, datasets and outputs were made using the software <em>Harmony Assistant.</em><br>
   During output generation, <em>temperature</em> parameter was adjusted to alter the randomness of each output.<br>
-  In general, it was observed that a log-likelihood of -400 to -450 produced intelligible results.</p> 
+  In general, it was observed that a log-likelihood of -400 to -450 produced intelligible results.</p>
+  
+  
+  
   <h2>Outputs</h2>
   <h3><a href="https://github.com/sakethram88/Goldberg_DeepLearning/tree/master/Dataset%201">Dataset 1</a></h3>
   <p>Dataset 1 contains the commplete aria.<br>
   This was provided as input to the code.<br>
 The following output was obtained</p>
-<img src="https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Dataset%201/Dataset%201%20Output/Dataset%201%20Output%20Score/Dataset%201%20Output.png" style="border:10px;">
+<figure>
+  <img src="https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Dataset%201/Dataset%201%20Output/Dataset%201%20Output%20Score/Dataset%201%20Output.png">
+  <figcaption>As we can see, the generated melody is random and does not follow the key structure of the aria</figcaption>
+</figure>
 
   
