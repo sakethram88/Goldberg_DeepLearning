@@ -11,7 +11,7 @@
   <h3>Code</h3>
   <p>The code used has been provided in this file <a href="https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Goldberg_DeepLearning.ipynb">Goldberg_DeepLearning.ipynb</a><br>
   <a href="https://magenta.tensorflow.org/"> Magenta </a> is an open source python library which can be used to generate music and art using machine learning.
-  <br>MelodyRNN can be used to generate melodies. It is an LSTM based neural network.
+  <br><a href="https://github.com/magenta/magenta/tree/master/magenta/models/melody_rnn">MelodyRNN</a> can be used to generate melodies. It is an LSTM based neural network.
   <br>
   MelodyRNN works on Note Sequences but our datasets are in MIDI format, so some functions have been used to facilitate interconversion between them.<br></p>
   
@@ -64,7 +64,7 @@ The following output was obtained:</p>
   
   <h2><a href="https://github.com/sakethram88/Goldberg_DeepLearning/tree/master/Final%20Output">Final Output</a></h2>
   
-  <p>This is the final output obtained from dataset 3:</p>
+  <p>This is the final output obtained from Dataset 3:</p>
   <img src="https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Final%20Output/Final%20Output%20Score/Goldberg_Final.png">
   <p>We can clearly see that this output follows the key structure and form of the aria. Moreover, there are no unintended dissonant notes.<br>
   If you don't read music, you can download the audio file and hear it by clicking <a href="https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Final%20Output/Final%20Output%20Audio/Goldberg_Final.mid?raw=true">here</a>
@@ -72,4 +72,5 @@ The following output was obtained:</p>
 <p>
   Using this method, we can create additional variations to any set of variations or create a new variation to any existing piece of music. <br>
   It was observed that the output produced by Dataset 3 sounded closer to Bach's music than that of Dataset 2.<br>
-  When considering a complete set of variations the result would resemble the style of the composer, but when only the theme is considered a new style is established.
+  When considering a complete set of variations the result would resemble the style of the composer, but when only the theme is considered a new style is established.</p>
+  <hr>
