@@ -37,7 +37,7 @@
   <h2>Results</h2>
   
   <h3><a href="https://github.com/sakethram88/Goldberg_DeepLearning/tree/master/Dataset%201">Dataset 1</a></h3>
-  <p>Dataset 1 contains the commplete aria.<br>
+  <p>Dataset 1 contains the complete aria.<br>
 The following output was obtained:</p>
 <figure>
   <img src="https://github.com/sakethram88/Goldberg_DeepLearning/blob/master/Dataset%201/Dataset%201%20Output/Dataset%201%20Output%20Score/Dataset%201%20Output.png">
